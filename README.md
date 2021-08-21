@@ -14,6 +14,7 @@ full functioning Arabic Unity Dialogue system
 يحتوي على array 
 و هذا الإرراي يحتوي على جميع الجمل التي تحتاج لعرضها 
 
+![image](https://user-images.githubusercontent.com/59334322/130318668-3edd63f2-502b-4c09-ae8d-4195cc9af099.png)
 
 
 ► ثانيا : تعابيرالشخصيات 
