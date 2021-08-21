@@ -8,7 +8,9 @@ full functioning Arabic Unity Dialogue system
 
 ► أولا : كيفية استخدام النظام
 
-هناك سكريبت اسمه dialogue_manager 
+
+هناك سكريبت اسمه dialogue_manager
+السكريبت مشروح من بدايته لنهايته لأنيي قمت بإضافة كومينتس تشرح كل سطر ! 
 يحتوي على array 
 و هذا الإرراي يحتوي على جميع الجمل التي تحتاج لعرضها 
 
@@ -26,6 +28,7 @@ G = GERALT , S = SCARLET , N = NORMAL
 و الصورة أنا أحددها 
 و كذلك لباقي التعابير و هكذا يمكنك أن تضيف العدد الذي تريده من الشخصيات 
 
+![image](https://user-images.githubusercontent.com/59334322/130318595-d73a828e-f6e4-4022-a477-3c093689993a.png)
 
 
 ► ثالثا : تأثيرات النص
@@ -35,6 +38,8 @@ G = GERALT , S = SCARLET , N = NORMAL
 و إذا قمت بإضافة حرف الF 
 الذي يعبر عن FEAR أي الخوف 
 سيقوم أيضا بتفعيل سكريبت يجعل النص متحركا بشكل يعبر عن الخوف 
+ 
+ ![image](https://user-images.githubusercontent.com/59334322/130318608-1baaa866-91c2-4457-a7a5-57ce98fe5aa5.png)
 
 ► رابعا : سرعة الكتابة
 
